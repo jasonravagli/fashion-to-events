@@ -11,8 +11,8 @@ DeepFashion2 is available at this [GitHub repository](https://github.com/switcha
 It contains all the information about the dataset, and the instructions to download the data.
 
 You will need to fill in a form to get the password to unzip the files.
-To train Mask R-CNN the dataset must be in the COCO format. DeepFashion2 authors provided a script to generate coco-type
-annotations that can be found [here](https://github.com/switchablenorms/DeepFashion2/blob/master/evaluation/deepfashion2_to_coco.py) is provided.
+To train Mask R-CNN the dataset must be in the COCO format. The DeepFashion2 authors provided a script to generate COCO
+annotations that can be found [here](https://github.com/switchablenorms/DeepFashion2/blob/master/evaluation/deepfashion2_to_coco.py).
 
 ### USED
 The official USED web page can be found [here](http://loki.disi.unitn.it/~used/). The page contains the link to download
